@@ -1,2 +1,2 @@
 # seismic_image
-Here are some python code used to transform seismic images.
+Here is a sample python code used to transform seismic images.
